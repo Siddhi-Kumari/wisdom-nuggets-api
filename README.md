@@ -18,5 +18,5 @@ A simple Flask-based RESTful API to manage "Wisdom Nuggets" — short inspiratio
 ### 1. Clone the repo
 
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/Siddhi-Kumari/wisdom-nuggets-api>
 cd SuperMorpheus
